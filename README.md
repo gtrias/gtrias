@@ -37,6 +37,7 @@ Free software supporter, happy vim user and automation addict.
 - **[SlideTime](https://slidetime.app)**: Local-first markdown presentations, free and interactive.
 - **[REFSTASH](https://refstash.app)**: A stash for UI references, to collect and organise design inspiration.
 - **[Mythgrow](https://mythgrow.site)**: A virtual creature game with AI companions that hatch from eggs.
+- **[Age of Slop](https://ageofslop.app)**: Post-apocalyptic RTS in the browser, fully local, with every unit and building made procedurally.
 
 ### Open source
 
